@@ -69,16 +69,11 @@ The dataset includes information related to:
 - Total Churn and Churn Rate
 - New Joiners
 ## Data Pipeline
-```text
-CSV / Excel File
-      ↓
-SQL Server Import Wizard
-      ↓
-SQL Server Database
-      ↓
-Data Cleaning & Transformation
-      ↓
-Power BI Dashboard & ML Prediction
+1. CSV / Excel File
+2. SQL Server Import Wizard
+3. SQL Server Database
+4. Data Cleaning & Transformation
+5. Power BI Dashboard & ML Prediction
 
 ## 5. Feature and Highlights
 
