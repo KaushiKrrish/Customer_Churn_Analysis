@@ -99,3 +99,6 @@ The analysis revealed several important business insights:
 - High monthly charges correlated with increased churn probability
 - Fiber optic users showed different churn behavior compared to cable users
 - Customer tenure played a major role in retention
+
+### 6. Screenshots
+Dashoboard Summary page-
