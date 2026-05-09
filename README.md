@@ -69,7 +69,7 @@ The dataset includes information related to:
 - Total Churn and Churn Rate
 - New Joiners
 ## Data Pipeline
-text
+```text
 CSV / Excel File
       ↓
 SQL Server Import Wizard
