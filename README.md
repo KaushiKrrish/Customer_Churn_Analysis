@@ -51,7 +51,7 @@ The primary objectives of this project are:
 The dataset used in this project is a Telecom Customer Churn dataset containing customer demographic details, account information, service subscriptions, billing details, and churn behaviour.
 
 ## Source of Data
-- Raw customer data was initially stored in CSV/Excel format
+- [Raw customer data was initially stored in CSV/Excel format](https://1drv.ms/x/c/66c2a3f9f8f1def1/IQCKzoAstXzCT7Btp-nuHQdMAfXfhy4tQDQ4TAW8UBtznPk?e=zn08Jc)
 - The dataset was imported into SQL Server using SQL Server Management Studio (SSMS)
 - ETL processes were applied to clean, transform, and structure the data for analysis and reporting
 
