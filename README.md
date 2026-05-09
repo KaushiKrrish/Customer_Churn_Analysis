@@ -101,4 +101,4 @@ The analysis revealed several important business insights:
 - Customer tenure played a major role in retention
 
 ### 6. Screenshots
-Dashoboard Summary page-
+![Dashoboard Preview](https://github.com/KaushiKrrish/Customer_Churn_Analysis/blob/main/Churn_Analysis_Summary_Page.png)
