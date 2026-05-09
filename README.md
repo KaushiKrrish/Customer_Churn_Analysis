@@ -12,14 +12,14 @@ Customer churn is one of the biggest challenges faced by telecom companies. Losi
 
 The project follows a complete workflow from raw CSV files to predictive dashboards and business insights.
 ## 3. Tech Stack
-Data Engineering- 
+### Data Engineering- 
 - SQL Server
 - SQL Server Management Studio (SSMS)
-Dashboarding & Visualization- 
+### Dashboarding & Visualization- 
 - Power BI
 - DAX
 - Power Query
-Development Environment- 
+### Development Environment- 
 - Jupyter Notebook
 - Excel
 ## 4. Business Objectives
