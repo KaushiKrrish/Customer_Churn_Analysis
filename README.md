@@ -1,4 +1,4 @@
-# Customer_Churn_Analysis
+# End-End Telecom Customer Churn Analysis
 ## 1. Project Title
 An interactive Power BI dashboard designed to analyze customer churn behavior and identify high-risk customer segments using machine learning and business intelligence techniques.
 ## 2. Overview
